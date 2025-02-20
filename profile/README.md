@@ -4,7 +4,7 @@ You’ve arrived at OS2’s main GitHub organization – the hub where we collab
 
 ## 🌟 2025: The Year of Walk the Talk
 
-This year, we are committed to improving and consolidating our toolbox while strengthening our presence on GitHub. Expect to see:
+This year, we’re not just advocating for open collaboration – we’re living it! 💪 We are committed to improving our own practices, making our repositories more transparent, and strengthening our presence on GitHub. Expect to see:
 
 ✅ More structured and accessible repositories 📂  
 ✅ Fresh improvements to existing projects 🔧  
