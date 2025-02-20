@@ -1,12 +1,14 @@
-## Hi there 👋
+# 🎉 Welcome to OS2 on GitHub! 🚀
 
-<!--
+You’ve arrived at OS2’s main GitHub organization – the hub where we collaborate, innovate, and build open-source standards and principles for the public sector. 🏛️✨
 
-**Here are some ideas to get you started:**
+## 🌟 2025: The Year of Walk the Talk
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This year, we are committed to improving and consolidating our toolbox while strengthening our presence on GitHub. Expect to see:
+
+✅ More structured and accessible repositories 📂
+✅ Fresh improvements to existing projects 🔧
+✅ New tools and resources to explore 🚀
+✅ A stronger community of contributors 🤝
+
+We’re excited to have you here! Dive in, explore, and don’t hesitate to contribute or reach out. Let’s build the future of open source together! 💡🌍
